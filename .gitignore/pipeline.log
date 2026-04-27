@@ -1,0 +1,7 @@
+2026-04-27 13:52:01,831 - The data pipeline has started successfully.
+2026-04-27 13:55:54,080 - Extract: 9994 records extracted from sales_raw.csv
+2026-04-27 13:56:11,184 - Extract: 9994 records extracted from sales_raw.csv
+2026-04-27 14:24:50,578 - Load: 9994 records loaded into sales.db
+2026-04-27 14:39:42,076 - Load: 9994 records loaded into sales.db
+2026-04-27 15:49:42,539 - Reconciliation: Success. 9994 (In) = 9994 (Out) + 0 (Dropped).
+2026-04-27 15:49:46,071 - Load: 9994 records loaded into sales.db
